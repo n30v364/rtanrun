@@ -52,7 +52,7 @@ const rtanCrashImage = new Image();
 rtanCrashImage.src = "./images/rtan_crash.png";
 // (8) 장애물
 const obstacleImage = new Image();
-obstacleImage.src = "./images/obstacle2.png";
+obstacleImage.src = "./images/obstacle1.png";
 
 /* 박스를 그립니다. */
 // ctx.fillStyle = 'green';
